@@ -7,7 +7,7 @@ body {
 
 a {
   text-decoration: none;
-  color: white;
+  color: white;;
 }
 img {
   max-width: 311px;
@@ -141,19 +141,19 @@ img {
 
 .first {
   display: absolute;
-  left:420px;
+  left:428px;
   top:306px;
 }
 
 .second {
   display: absolute;
-  left:803px;
+  left:811px;
   top: 306px;
 }
 
 .third {
   display: absolute;
-  left:1186px;
+  left:1194px;
   top: 306px;
 }
 
@@ -161,18 +161,18 @@ img {
 
 .fourth {
   display: absolute;
-  left:420px;
+  left:428px;
   top:625px;
 }
 
 .fifth {
   display: absolute;
-  left:803px;
+  left:811px;
   top:625px;
 }
 
 .sixth {
   display: absolute;
-  left:1186px;
+  left:1194px;
   top:625px;
 }
